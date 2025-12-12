@@ -1,2 +1,1 @@
-# health_insurance_cross_sell_prediction
-Predictive cross-sell model ranking 76k health insurance customers by likelihood of buying vehicle insurance. Delivers strong performance (AUC 0.858) and boosts campaign profit from R$762k to R$2.02M (+165% ROI) by targeting the top 20% most likely buyers.
+<img width="1920" height="1080" alt="Health" src="https://github.com/user-attachments/assets/663053e9-998c-4f1a-a64c-738f4457e04c" />
